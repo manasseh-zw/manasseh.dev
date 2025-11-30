@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "title": "Marius Bălaj",
+    "description": "I’m a UI engineer turned founder with a background in startups. I co-founded QED in 2021, grew it, and eventually sold it to The Sandbox. Now, I’m focused on building in AI."
+  },
+  "appBar": {
+    "home": "Home",
+    "menu": "Menu",
+    "close": "Close",
+    "intro": "Intro",
+    "experiences": "Experiences",
+    "writings": "Writings",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "<serif><ui><animation><letterDown>A</letterDown><letterUp>U</letterUp></animation>I</ui> engineer</serif> turned <serif>founder</serif>.\nOne exit behind me, <serif>now building in <ai>AI</ai></serif>.",
+    "description": {
+      "0": "I’m a UI engineer turned founder with a background in startups — from blockchain pioneers to larger tech companies. I co-founded <url1><serif>QED</serif></url1> in 2021, grew it, and eventually sold it to <url2><serif>Sandbox</serif></url2>.",
+      "1": "Outside of work, I box. I’m the president of <url3><serif>Viitorul Boxing Club</serif></url3>, where I train and help others do the same. I also <url4><serif>read</serif></url4> a lot — it keeps me sharp.",
+      "2": "Now, I’m focused on building in AI."
+    }
+  },
+  "experience": {
+    "today": "Today",
+    "title": "Experience",
+    "jobs": {
+      "0": {
+        "title": "VOID2",
+        "role": "Concept Developer"
+      },
+      "1": {
+        "title": "The Sandbox",
+        "role": "Managing Director (Romania)"
+      },
+      "2": {
+        "title": "QED (acquired by The Sandbox)",
+        "role": "Co-Founder",
+        "duration": "2022 ~ 2025"
+      },
+      "3": {
+        "title": "stake.fish / f2pool.io",
+        "role": "Senior Software Engineer",
+        "duration": "2019 ~ 2022"
+      },
+      "4": {
+        "title": "Alacritylaw",
+        "role": "Lead Software Engineer",
+        "duration": "2017 ~ 2019"
+      }
+    }
+  },
+  "commits": {
+    "viewOnGitHub": "View on GitHub"
+  },
+  "posts": {
+    "title": "Writings",
+    "author": " - {author}",
+    "moreWritings": "More writings",
+    "backToHome": "Back to home",
+    "backToWritings": "Back to writings",
+    "itIsTimeToWrite": "Sometimes it’s time to <serif>write</serif>."
+  },
+  "footer": {
+    "contact": "Contact",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "x": "X",
+    "copyToClipboard": "Copy to clipboard",
+    "copyright": "© 2025 Marius Balaj",
+    "quote": "The <serif>starry heavens</serif> above me and <serif>the moral law</serif> within me."
+  },
+  "error404": {
+    "title": "Page Not Found",
+    "thePageYouSeekDoesNotExist": "The page you are looking for does <serif>not exist</serif>.",
+    "backToHome": "Back to home"
+  }
+}
