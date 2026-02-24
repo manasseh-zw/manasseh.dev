@@ -7,6 +7,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { NextIntlClientProvider } from "next-intl";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import localFont from "next/font/local";
+import messages from "@/copy/en-EN.json";
 
 import { cn } from "@/utils/helpers";
 import { scrollTransforms } from "@/utils/keyframes";
@@ -101,8 +102,8 @@ const App = ({ Component, pageProps }: AppProps) => {
 
   return (
     <NextIntlClientProvider
-      locale={router.locale ?? "en-EN"}
-      messages={pageProps.messages}
+      locale={router.locale ?? "en"}
+      messages={pageProps.messages ?? messages}
     >
       <AppBar />
 
