@@ -24,7 +24,7 @@ const Home = ({ posts }: HomeProps) => {
       <About />
       <Experience />
       <Commits />
-      <Posts posts={posts} />
+      {/* <Posts posts={posts} /> */}
     </>
   );
 };

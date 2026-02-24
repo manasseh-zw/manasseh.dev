@@ -1,15 +1,14 @@
 export const links = {
-  github: "https://github.com/balajmarius",
-  linkedin: "https://www.linkedin.com/in/marius-balaj",
-  x: "https://x.com/balajmarius",
-  goodreads: "https://www.goodreads.com/user/show/47935304-marius-balaj",
-  qed: "https://qed.builders",
-  sandbox: "https://sandbox.game",
-  viitorul:
-    "https://povestidinsport.substack.com/p/cum-imbina-un-antreprenor-timisorean",
+  github: "https://github.com/manasseh-zw",
+  linkedin: "https://www.linkedin.com/in/devmanasseh",
+  x: "https://x.com/devmanasseh",
+  nextsoft: "https://nextsoft.co.zw",
+  piro: "https://piro.llc",
+  teleagents: "https://teleagents.co.zw",
+  piano: "https://reverbmachine.com/blog/exploring-the-yamaha-dx7/",
 } as const;
 
 export const accounts = {
-  githubUsername: "balajmarius",
-  emailAddress: "balajmarius@gmail.com",
+  githubUsername: "manasseh-zw",
+  emailAddress: "hey@manasseh.dev",
 } as const;

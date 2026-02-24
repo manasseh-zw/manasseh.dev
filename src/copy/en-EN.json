@@ -1,7 +1,13 @@
 {
   "metadata": {
-    "title": "Marius Bălaj",
-    "description": "I’m a UI engineer turned founder with a background in startups. I co-founded QED in 2021, grew it, and eventually sold it to The Sandbox. Now, I’m focused on building in AI."
+    "title": "Manasseh Changachirere",
+    "description": "I’m a software engineer and founder. I founded Nextsoft in 2025, currently working on it, building the next generation of software and infrastructure for Zimbabwe & Africa.",
+    "links": {
+      "email": "mailto:hey@manasseh.dev",
+      "x": "https://x.com/devmanasseh",
+      "github": "https://github.com/manasseh-zw",
+      "linkedin": "https://www.linkedin.com/in/devmanasseh"
+    }
   },
   "appBar": {
     "home": "Home",
@@ -9,15 +15,14 @@
     "close": "Close",
     "intro": "Intro",
     "experiences": "Experiences",
-    "writings": "Writings",
     "contact": "Contact"
   },
   "about": {
-    "title": "<serif><ui><animation><letterDown>A</letterDown><letterUp>U</letterUp></animation>I</ui> engineer</serif> turned <serif>founder</serif>.\nOne exit behind me, <serif>now building in <ai>AI</ai></serif>.",
+    "title": "<serif>Software</serif> engineer and <serif>founder</serif>.\nBuilding next-gen <serif>software</serif> and <serif>infra</serif>.",
     "description": {
-      "0": "I’m a UI engineer turned founder with a background in startups — from blockchain pioneers to larger tech companies. I co-founded <url1><serif>QED</serif></url1> in 2021, grew it, and eventually sold it to <url2><serif>Sandbox</serif></url2>.",
-      "1": "Outside of work, I box. I’m the president of <url3><serif>Viitorul Boxing Club</serif></url3>, where I train and help others do the same. I also <url4><serif>read</serif></url4> a lot — it keeps me sharp.",
-      "2": "Now, I’m focused on building in AI."
+      "0": "I’m a software engineer and founder of <url1><serif>Nextsoft</serif></url1> & <url2><serif>Piro LLC</serif></url2>. My stack revolves heavily around <serif>TypeScript</serif>. I'm currently building <url1><serif>Teleagents</serif></url1> bringing enterprise voice agents to Zimbabwe and Africa.",
+      "1": "I believe the best products are built at the <serif>intersection of art and technology</serif>. That is what I strive for in everything I engage in. I pursue <serif>perfection</serif> knowing full well it is unattainable — but in the process, <serif>excellence</serif> is achieved.",
+      "2": "Outside of shipping code, I study Christian theology and world history, I enjoy morning runs, and learning to play the <url4><serif>piano</serif></url4>."
     }
   },
   "experience": {
@@ -25,27 +30,24 @@
     "title": "Experience",
     "jobs": {
       "0": {
-        "title": "VOID2",
-        "role": "Concept Developer"
+        "title": "Nextsoft",  
+        "role": "Founder",
+        "duration": "2025 ~ Present"
       },
       "1": {
-        "title": "The Sandbox",
-        "role": "Managing Director (Romania)"
+        "title": "TeleAgents",
+        "role": "Lead Developer",
+        "duration": "2026 ~ Present"
       },
       "2": {
-        "title": "QED (acquired by The Sandbox)",
-        "role": "Co-Founder",
-        "duration": "2022 ~ 2025"
+        "title": "Piro LLC",
+        "role": "Founder",
+        "duration": "2025 ~ Present"
       },
       "3": {
-        "title": "stake.fish / f2pool.io",
-        "role": "Senior Software Engineer",
-        "duration": "2019 ~ 2022"
-      },
-      "4": {
-        "title": "Alacritylaw",
-        "role": "Lead Software Engineer",
-        "duration": "2017 ~ 2019"
+        "title": "Harare Institute of Technology",
+        "role": "BSc in Software Engineering",
+        "duration": "2022 ~ 2026"
       }
     }
   },
@@ -67,8 +69,8 @@
     "github": "GitHub",
     "x": "X",
     "copyToClipboard": "Copy to clipboard",
-    "copyright": "© 2025 Marius Balaj",
-    "quote": "The <serif>starry heavens</serif> above me and <serif>the moral law</serif> within me."
+    "copyright": "© 2026 Manasseh Changachirere",
+    "quote": "Stay <serif>Gold</serif>."
   },
   "error404": {
     "title": "Page Not Found",

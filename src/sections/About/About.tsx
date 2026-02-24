@@ -44,7 +44,7 @@ const About = () => {
 
     url1: (chunks: ReactNode) => (
       <Link
-        href={links.qed}
+        href={links.nextsoft}
         className="text-blue-500"
         target="_blank"
         rel="noopener noreferrer"
@@ -54,7 +54,7 @@ const About = () => {
     ),
     url2: (chunks: ReactNode) => (
       <Link
-        href={links.sandbox}
+        href={links.piro}
         className="text-blue-500"
         target="_blank"
         rel="noopener noreferrer"
@@ -64,7 +64,7 @@ const About = () => {
     ),
     url3: (chunks: ReactNode) => (
       <Link
-        href={links.viitorul}
+        href={links.teleagents}
         className="text-blue-500"
         target="_blank"
         rel="noopener noreferrer"
@@ -74,7 +74,7 @@ const About = () => {
     ),
     url4: (chunks: ReactNode) => (
       <Link
-        href={links.goodreads}
+        href={links.piano}
         className="text-blue-500"
         target="_blank"
         rel="noopener noreferrer"

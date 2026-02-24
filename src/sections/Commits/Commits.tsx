@@ -11,12 +11,19 @@ import { Section } from "@/components/Section";
 import { SvgIconBranch } from "@/components/SvgIcon";
 
 const theme = {
+  light: [
+    "#ebedf0",
+    "#9be9a8",
+    "#40c463",
+    "#30a14e",
+    "#216e39",
+  ],
   dark: [
-    "var(--color-blue-100)",
-    "var(--color-blue-200)",
-    "var(--color-blue-300)",
-    "var(--color-blue-400)",
-    "var(--color-blue-500)",
+    "#ebedf0",
+    "#9be9a8",
+    "#40c463",
+    "#30a14e",
+    "#216e39",
   ],
 };
 

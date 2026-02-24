@@ -12,10 +12,12 @@ const Experience = () => {
     {
       title: t("experience.jobs.0.title"),
       role: t("experience.jobs.0.role"),
+      duration: t("experience.jobs.0.duration"),
     },
     {
       title: t("experience.jobs.1.title"),
       role: t("experience.jobs.1.role"),
+      duration: t("experience.jobs.1.duration"),
     },
     {
       title: t("experience.jobs.2.title"),
@@ -26,11 +28,6 @@ const Experience = () => {
       title: t("experience.jobs.3.title"),
       role: t("experience.jobs.3.role"),
       duration: t("experience.jobs.3.duration"),
-    },
-    {
-      title: t("experience.jobs.4.title"),
-      role: t("experience.jobs.4.role"),
-      duration: t("experience.jobs.4.duration"),
     },
   ];
 
