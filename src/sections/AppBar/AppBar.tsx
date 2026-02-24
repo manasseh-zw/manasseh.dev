@@ -12,7 +12,6 @@ import {
   SvgIconM,
   SvgIconHouse,
   SvgIconTrophy,
-  SvgIconNotepad,
   SvgIconGlobe,
 } from "@/components/SvgIcon";
 

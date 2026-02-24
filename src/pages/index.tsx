@@ -6,13 +6,13 @@ import getPosts, { type Post } from "@/lib/posts";
 import { About } from "@/sections/About";
 import { Experience } from "@/sections/Experience";
 import { Commits } from "@/sections/Commits";
-import { Posts } from "@/sections/Posts";
+
 
 type HomeProps = {
   posts: Record<string, Post[]>;
 };
 
-const Home = ({ posts }: HomeProps) => {
+const Home = ({  }: HomeProps) => {
   const t = useTranslations();
 
   return (
