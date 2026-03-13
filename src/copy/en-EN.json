@@ -15,6 +15,7 @@
     "close": "Close",
     "intro": "Intro",
     "experiences": "Experiences",
+    "works": "Works",
     "contact": "Contact"
   },
   "about": {
@@ -30,7 +31,7 @@
     "title": "Experience",
     "jobs": {
       "0": {
-        "title": "Nextsoft",  
+        "title": "Nextsoft",
         "role": "Founder",
         "duration": "2025 ~ Present"
       },
@@ -50,6 +51,40 @@
         "duration": "2022 ~ 2026"
       }
     }
+  },
+  "works": {
+    "title": "Works",
+    "projects": [
+      {
+        "title": "Apollo",
+        "date": "April 2025",
+        "description": "Deep research meta-agent and Best C# Project winner.",
+        "embedType": "linkedin",
+        "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7332709788193058816?collapsed=1",
+        "embedHeight": 500
+      },
+      {
+        "title": "dev0",
+        "date": "January 2026",
+        "description": "Agentic engineering platform for assigning and reviewing work.",
+        "embedType": "youtube",
+        "embedUrl": "https://www.youtube.com/embed/kcV1AuZOqI4?si=6jTf8rrH08jXl5Ms"
+      },
+      {
+        "title": "Viber",
+        "date": "Late 2025",
+        "description": "Voice-native app builder powered by conversational coding agents.",
+        "embedType": "youtube",
+        "embedUrl": "https://www.youtube.com/embed/jOoJOg21uDg?si=mBcoqda6X8hJ_Ojs"
+      },
+      {
+        "title": "HeyDesk",
+        "date": "September 2025",
+        "description": "Support agents grounded on each team's knowledge base.",
+        "embedType": "youtube",
+        "embedUrl": "https://www.youtube.com/embed/zHzP6dwCyuU?si=mApKgUWXvNJajvPl"
+      }
+    ]
   },
   "commits": {
     "viewOnGitHub": "View on GitHub"

@@ -5,6 +5,7 @@ import getPosts, { type Post } from "@/lib/posts";
 
 import { About } from "@/sections/About";
 import { Experience } from "@/sections/Experience";
+import { Works } from "@/sections/Works";
 import { Commits } from "@/sections/Commits";
 
 
@@ -61,6 +62,7 @@ const Home = ({  }: HomeProps) => {
 
       <About />
       <Experience />
+      <Works />
       <Commits />
       {/* <Posts posts={posts} /> */}
     </>
