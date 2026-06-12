@@ -22,7 +22,9 @@ export type TypographyProps = {
   className?: string;
 } & Omit<HTMLAttributes<HTMLElement>, "className">;
 
-const typographyVariantMapping: TypographyVariantMapping = {
+type TypographyElement = "h1" | "h2" | "h4" | "p" | "span" | "small";
+
+const typographyVariantMapping: Record<TypographyVariant, TypographyElement> = {
   h1: "h1",
   h2: "h2",
   subtitle1: "h2",
@@ -69,6 +71,7 @@ const Typography = ({
   fontWeight = "normal",
   color = "default",
   display = "inline-block",
+  className,
   ...props
 }: TypographyProps) => {
   const Component = typographyVariantMapping[variant];
@@ -79,7 +82,8 @@ const Typography = ({
         typographyVariantClassNames[variant],
         typographyFontWeightClassNames[fontWeight],
         typographyColorClassNames[color],
-        typographyDisplayClassNames[display]
+        typographyDisplayClassNames[display],
+        className
       )}
       {...props}
     />

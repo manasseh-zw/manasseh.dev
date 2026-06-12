@@ -4,7 +4,7 @@
     "description": "I’m a software engineer and founder. I founded Nextsoft in 2025, currently working on it, building the next generation of software and infrastructure for Zimbabwe & Africa.",
     "links": {
       "email": "mailto:hey@manasseh.dev",
-      "x": "https://x.com/devmanasseh",
+      "x": "https://x.com/manassehdev",
       "github": "https://github.com/manasseh-zw",
       "linkedin": "https://www.linkedin.com/in/devmanasseh"
     }
@@ -16,7 +16,15 @@
     "intro": "Intro",
     "experiences": "Experiences",
     "works": "Works",
+    "socials": "Socials",
     "contact": "Contact"
+  },
+  "social": {
+    "title": "Follow me around the internet.",
+    "description": "One place for the projects, demos, thoughts, and behind-the-scenes updates I share across platforms.",
+    "eyebrow": "Socials",
+    "button": "Follow",
+    "profileAlt": "Portrait of Manasseh Changachirere"
   },
   "about": {
     "title": "<serif>Software</serif> engineer and <serif>founder</serif>.\nBuilding next-gen <serif>software</serif> and <serif>infra</serif>.",

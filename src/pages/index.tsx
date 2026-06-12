@@ -7,6 +7,7 @@ import { About } from "@/sections/About";
 import { Experience } from "@/sections/Experience";
 import { Works } from "@/sections/Works";
 import { Commits } from "@/sections/Commits";
+import { links } from "@/utils/links";
 
 
 type HomeProps = {
@@ -18,7 +19,7 @@ const personSchema = {
   "@type": "Person",
   name: "Manasseh Changachirere",
   url: "https://manasseh.dev",
-  image: "https://manasseh.dev/og-image.webp",
+  image: "https://manasseh.dev/profile_manasseh.jpg",
   jobTitle: "Software Engineer & Founder",
   worksFor: [
     {
@@ -34,8 +35,12 @@ const personSchema = {
   ],
   sameAs: [
     "https://github.com/manasseh-zw",
-    "https://www.linkedin.com/in/devmanasseh",
-    "https://x.com/devmanasseh",
+    links.linkedin,
+    links.x,
+    links.youtube,
+    links.tiktok,
+    links.instagram,
+    links.facebook,
   ],
   email: "hey@manasseh.dev",
   knowsAbout: [

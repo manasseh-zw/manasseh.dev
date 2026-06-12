@@ -9,6 +9,7 @@ import { Keys } from "@/utils/keyboard";
 import { appBarAnimation } from "@/utils/keyframes";
 
 import {
+  SvgIconDot,
   SvgIconM,
   SvgIconHouse,
   SvgIconTrophy,
@@ -44,7 +45,12 @@ const AppBar = ({ ...props }: AppBarProps) => {
       icon: <SvgIconNotepad size="small" />,
     },
     {
-      href: "#contact",
+      href: "/social",
+      label: t("appBar.socials"),
+      icon: <SvgIconDot size="small" />,
+    },
+    {
+      href: "/#contact",
       label: t("appBar.contact"),
       icon: <SvgIconGlobe size="small" />,
     },
